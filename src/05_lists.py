@@ -21,10 +21,6 @@ print(x)
 # Change x so that it is [1, 2, 3, 4, 9, 10]
 # YOUR CODE HERE
 x.remove(8)
-x.remove(9)
-x.remove(10)
-x.append(y[1])
-x.append(y[2])
 print(x)
 
 # Change x so that it is [1, 2, 3, 4, 9, 99, 10]
